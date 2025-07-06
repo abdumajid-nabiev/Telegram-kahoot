@@ -1,0 +1,662 @@
+[
+  {
+    "text": "house",
+    "answer": "가정집",
+    "options": [
+      "재무보고",
+      "문화",
+      "판결문",
+      "가정집"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "impressive",
+    "answer": "감동적",
+    "options": [
+      "맛없다",
+      "선선하다",
+      "감동적",
+      "쭈그러들다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "scenery",
+    "answer": "경관",
+    "options": [
+      "협업문화",
+      "설문",
+      "경관",
+      "품질보증"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "cost, guard",
+    "answer": "경비",
+    "options": [
+      "경비",
+      "사업계획서",
+      "대책본부",
+      "수익성"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "everywhere",
+    "answer": "곳곳",
+    "options": [
+      "혁신",
+      "발전",
+      "곳곳",
+      "생산성"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "attraction",
+    "answer": "구경거리",
+    "options": [
+      "비용",
+      "시장분석",
+      "자본금",
+      "구경거리"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "thoroughly,  everywhere",
+    "answer": "구석구석",
+    "options": [
+      "비참하다",
+      "한심하다",
+      "구석구석",
+      "막막하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "plaster cast",
+    "answer": "깁스",
+    "options": [
+      "고객만족",
+      "생산성",
+      "인프라",
+      "깁스"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "farm produce",
+    "answer": "농산물",
+    "options": [
+      "판매전략",
+      "농산물",
+      "경찰",
+      "투자자"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "on foot",
+    "answer": "도보",
+    "options": [
+      "성과급",
+      "시장점검",
+      "도보",
+      "집중력"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "landmark",
+    "answer": "명소",
+    "options": [
+      "서비스품질",
+      "명소",
+      "교육훈련",
+      "외환시장"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "flu-like symptoms",
+    "answer": "몸살",
+    "options": [
+      "몸살",
+      "협동조합",
+      "수업",
+      "영향"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "guesthouse",
+    "answer": "민박",
+    "options": [
+      "업무분장",
+      "경쟁시장",
+      "민박",
+      "내용"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "backpacking trip",
+    "answer": "배낭여행",
+    "options": [
+      "자료",
+      "이해",
+      "심층",
+      "배낭여행"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "spicy chicken",
+    "answer": "불닭",
+    "options": [
+      "불닭",
+      "홍보",
+      "공급망관리",
+      "품질보증"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be excited or nervous",
+    "answer": "설레다",
+    "options": [
+      "복잡하다",
+      "덧없다",
+      "찌그러지다",
+      "설레다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "educational trip",
+    "answer": "수학여행",
+    "options": [
+      "서비스",
+      "수학여행",
+      "협회",
+      "경쟁시장"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "lodging, accommodation",
+    "answer": "숙박",
+    "options": [
+      "숙박",
+      "체계",
+      "사업부문",
+      "재무보고"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "honeymoon",
+    "answer": "신혼여행",
+    "options": [
+      "신혼여행",
+      "단계",
+      "사업운영",
+      "자격"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "fresh, lively",
+    "answer": "싱싱하다",
+    "options": [
+      "한가하다",
+      "생뚱맞다",
+      "헐겁다",
+      "싱싱하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "depressed, gloomy",
+    "answer": "우울하다",
+    "options": [
+      "우울하다",
+      "진부하다",
+      "지루하다",
+      "적나라하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "historic site",
+    "answer": "유적지",
+    "options": [
+      "유적지",
+      "기술인력",
+      "역량",
+      "업무프로세스"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "filming location",
+    "answer": "촬영지",
+    "options": [
+      "촬영지",
+      "정책결정",
+      "성과급",
+      "정보시스템"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "slightly hungry",
+    "answer": "출출하다",
+    "options": [
+      "출출하다",
+      "촉촉하다",
+      "포근하다",
+      "후하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "camping",
+    "answer": "캠핑",
+    "options": [
+      "캠핑",
+      "시장동향",
+      "재산세",
+      "사업부문"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "package holiday",
+    "answer": "패키지여행",
+    "options": [
+      "패키지여행",
+      "환경",
+      "정보시스템",
+      "환불"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "vacation rental",
+    "answer": "펜션",
+    "options": [
+      "펜션",
+      "경영성과",
+      "신제품",
+      "소득세"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "seafood",
+    "answer": "해산물",
+    "options": [
+      "에너지",
+      "시장점유율",
+      "시장규모",
+      "해산물"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "guest house",
+    "answer": "게스트 하우스",
+    "options": [
+      "운영체계",
+      "기업문화",
+      "게스트 하우스",
+      "신용등급"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "working hours",
+    "answer": "근무 시간",
+    "options": [
+      "근무 시간",
+      "디지털트랜스포메이션",
+      "환경경영",
+      "마케팅전략"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be continuously visited",
+    "answer": "발길이 끊이지 않다",
+    "options": [
+      "버티다",
+      "깔끔하다",
+      "발길이 끊이지 않다",
+      "기묘하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be among the best",
+    "answer": "손에 꼽히다",
+    "options": [
+      "손에 꼽히다",
+      "재구성하다",
+      "외치다",
+      "확장하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "speak in unison, unanimously agree",
+    "answer": "입을 모으다",
+    "options": [
+      "입을 모으다",
+      "설명하다",
+      "촉진하다",
+      "끓이다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be instantly attracted",
+    "answer": "한눈에 반하다",
+    "options": [
+      "지우다",
+      "올리다",
+      "탑재하다",
+      "한눈에 반하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "서울에 있는 가장 큰 궁궐",
+    "answer": "경복궁",
+    "options": [
+      "예술",
+      "신제품",
+      "기후",
+      "경복궁"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "narrow street",
+    "answer": "골목길",
+    "options": [
+      "골목길",
+      "고객관리",
+      "경영자",
+      "인재육성"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "handicraft",
+    "answer": "공예품",
+    "options": [
+      "투자자",
+      "공예품",
+      "기업가정신",
+      "경영성과"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "guard ceremony",
+    "answer": "교대식",
+    "options": [
+      "지식재산권",
+      "교대식",
+      "사회적책임",
+      "운영성과"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "royal palace",
+    "answer": "궁궐",
+    "options": [
+      "불일치",
+      "역량",
+      "궁궐",
+      "테스트"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "jujube tea",
+    "answer": "대추차",
+    "options": [
+      "대추차",
+      "설문",
+      "경쟁사",
+      "학생"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "look around,  take a look",
+    "answer": "둘러보다",
+    "options": [
+      "획정하다",
+      "둘러보다",
+      "공부하다",
+      "적재하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "as if / just like",
+    "answer": "마치",
+    "options": [
+      "절대로",
+      "해마다",
+      "마치",
+      "나중에"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "busy season",
+    "answer": "성수기",
+    "options": [
+      "매출액",
+      "성수기",
+      "기술력",
+      "기술"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "imprisonment / incarceration",
+    "answer": "수감",
+    "options": [
+      "기술교육",
+      "시장확대",
+      "수감",
+      "프로젝트관리"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "royal guard / gatekeeper",
+    "answer": "수문장",
+    "options": [
+      "환율변동",
+      "수문장",
+      "소비자",
+      "시행령"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "Stonehenge",
+    "answer": "스톤헨지",
+    "options": [
+      "설명서",
+      "수사관",
+      "예술",
+      "스톤헨지"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "night view",
+    "answer": "야경",
+    "options": [
+      "품질관리",
+      "창고",
+      "야경",
+      "조직원"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "relaxation / spare time",
+    "answer": "여유",
+    "options": [
+      "여유",
+      "성과",
+      "설문",
+      "인공지능"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "visitor",
+    "answer": "여행객",
+    "options": [
+      "시장진입",
+      "여행객",
+      "조사",
+      "기본"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "various places",
+    "answer": "이곳저곳",
+    "options": [
+      "기술",
+      "사이버범죄",
+      "이곳저곳",
+      "소통망"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "check-in / room entry",
+    "answer": "입실",
+    "options": [
+      "전문성",
+      "입실",
+      "투자전략",
+      "프로토타입"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "sunset glow",
+    "answer": "저녁노을",
+    "options": [
+      "저녁노을",
+      "거래처",
+      "조사",
+      "시장보고"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "lookout point / viewing platform",
+    "answer": "전망대",
+    "options": [
+      "전문성",
+      "고객관리",
+      "전망대",
+      "사업비"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "traditional",
+    "answer": "전통적",
+    "options": [
+      "인사관리",
+      "전통적",
+      "사업전략",
+      "조정"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "traditional tea house",
+    "answer": "전통찻집",
+    "options": [
+      "고객지원",
+      "연결",
+      "전통찻집",
+      "프로젝트관리"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "room checkout / leaving the room",
+    "answer": "퇴실",
+    "options": [
+      "프로젝트관리",
+      "퇴실",
+      "운영비",
+      "서비스"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "lifetime",
+    "answer": "평생",
+    "options": [
+      "생산설비",
+      "문화",
+      "평생",
+      "계획안"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "Hahoe mask",
+    "answer": "하회탈",
+    "options": [
+      "하회탈",
+      "인수합병",
+      "프로세스",
+      "내수시장"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "march / parade",
+    "answer": "행진",
+    "options": [
+      "고객만족",
+      "서류",
+      "감사보고서",
+      "행진"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "stand out / catch one's eye",
+    "answer": "눈에 띄다",
+    "options": [
+      "거래하다",
+      "유지하다",
+      "이사하다",
+      "눈에 띄다"
+    ],
+    "time_limit": 7
+  }
+]

@@ -1,0 +1,10 @@
+<!doctype html>
+<title>Set Time Limit</title>
+<h2>Step 2: How many seconds per question?</h2>
+<form method="post" action="{{ url_for('preview_quiz') }}">
+  <input type="number" name="time_limit" min="1" max="60" required> seconds
+  <br><br>
+  <input type="hidden" name="quiz_name" value="{{ quiz_name }}">
+  <input type="hidden" name="filepath" value="{{ filepath }}">
+  <input type="submit" value="Generate Quiz">
+</form>

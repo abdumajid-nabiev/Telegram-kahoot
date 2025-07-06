@@ -1,0 +1,497 @@
+[
+  {
+    "text": "mood, emotion",
+    "answer": "감정",
+    "options": [
+      "감정",
+      "인력관리",
+      "배송",
+      "성과"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "eventually, after all",
+    "answer": "결국",
+    "options": [
+      "처음으로",
+      "독특하게",
+      "결국",
+      "대충"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "forget / slip one’s mind",
+    "answer": "깜빡하다",
+    "options": [
+      "실어 나르다",
+      "이체하다",
+      "배제되다",
+      "깜빡하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "break / shatter",
+    "answer": "깨뜨리다",
+    "options": [
+      "깨뜨리다",
+      "평가하다",
+      "소집하다",
+      "종합하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "plentiful, generous",
+    "answer": "넉넉하다",
+    "options": [
+      "반듯하다",
+      "넉넉하다",
+      "불쾌하다",
+      "사소하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "answer sheet",
+    "answer": "답안지",
+    "options": [
+      "답안지",
+      "유통",
+      "자원봉사",
+      "기업문화"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be embarrassed / be flustered",
+    "answer": "당황하다",
+    "options": [
+      "당황하다",
+      "막연하다",
+      "귀엽다",
+      "풍요롭다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "the youngest member or child",
+    "answer": "막내",
+    "options": [
+      "요구",
+      "막내",
+      "프로세스",
+      "소비자행동"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "slip of the tongue / verbal mistake",
+    "answer": "말실수",
+    "options": [
+      "경험",
+      "연결",
+      "소송사건",
+      "말실수"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "drop / omit",
+    "answer": "빠뜨리다",
+    "options": [
+      "상호작용하다",
+      "검증하다",
+      "주의하다",
+      "빠뜨리다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "toilet bowl",
+    "answer": "변기",
+    "options": [
+      "변기",
+      "의사소통",
+      "운영체계",
+      "실태"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "careless",
+    "answer": "부주의하다",
+    "options": [
+      "신선하다",
+      "생생하다",
+      "부주의하다",
+      "시큰둥하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "delete",
+    "answer": "삭제하다",
+    "options": [
+      "삭제하다",
+      "권하다",
+      "복호화하다",
+      "긁다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "misunderstand",
+    "answer": "오해하다",
+    "options": [
+      "오해하다",
+      "실행되다",
+      "작성하다",
+      "열다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "move / transfer",
+    "answer": "옮기다",
+    "options": [
+      "추론하다",
+      "이야기하다",
+      "구현하다",
+      "옮기다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "deliberately",
+    "answer": "일부러",
+    "options": [
+      "끈질기게",
+      "도무지",
+      "일정하게",
+      "일부러"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "preserve",
+    "answer": "저장하다",
+    "options": [
+      "확장하다",
+      "유도하다",
+      "저장하다",
+      "닫다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "moderately / reasonably",
+    "answer": "적당히",
+    "options": [
+      "따뜻하게따뜻하게",
+      "노곤하게",
+      "곧장 이어서",
+      "적당히"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "misunderstand",
+    "answer": "착각하다",
+    "options": [
+      "운행하다",
+      "축적하다",
+      "검토하다",
+      "착각하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "ashamed",
+    "answer": "창피하다",
+    "options": [
+      "선선하다",
+      "창피하다",
+      "자연스럽다",
+      "단정하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be confused",
+    "answer": "헷갈리다",
+    "options": [
+      "탐스럽다",
+      "어수선하다",
+      "헷갈리다",
+      "무겁다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "maybe",
+    "answer": "혹시",
+    "options": [
+      "우선",
+      "개성있게",
+      "의연하게",
+      "혹시"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to feel fear",
+    "answer": "겁이 나다",
+    "options": [
+      "선호하다",
+      "진행되다",
+      "겁이 나다",
+      "일관되다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to be scolded",
+    "answer": "꾸중을 듣다",
+    "options": [
+      "제공하다",
+      "꾸중을 듣다",
+      "연속되다",
+      "관찰하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "between / with (each other)",
+    "answer": "끼리",
+    "options": [
+      "차분히",
+      "끼리",
+      "생기있게",
+      "줄줄이"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "manage / treat",
+    "answer": "다루다",
+    "options": [
+      "진행시키다",
+      "다루다",
+      "보류하다",
+      "확장되다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "determination, promise",
+    "answer": "다짐",
+    "options": [
+      "홍보전략",
+      "기술혁신",
+      "다짐",
+      "소속"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "tackle",
+    "answer": "대처하다",
+    "options": [
+      "대처하다",
+      "시작하다",
+      "늘다",
+      "표출하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "repetition",
+    "answer": "되풀이",
+    "options": [
+      "단점",
+      "되풀이",
+      "업무프로세스",
+      "혁신성"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to screw up",
+    "answer": "망치다",
+    "options": [
+      "인수하다",
+      "이관하다",
+      "상정하다",
+      "망치다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "desirable",
+    "answer": "바람직하다",
+    "options": [
+      "졸립다",
+      "바람직하다",
+      "조심하다",
+      "불합리하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to reconsider",
+    "answer": "반성하다",
+    "options": [
+      "확장되다",
+      "열다",
+      "토로하다",
+      "반성하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "explanation, excuse",
+    "answer": "변명",
+    "options": [
+      "결합",
+      "사업비",
+      "변명",
+      "경쟁시장"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "criticism / blame",
+    "answer": "비난",
+    "options": [
+      "재개발",
+      "토론",
+      "비난",
+      "재무제표"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "honest",
+    "answer": "솔직하다",
+    "options": [
+      "시끄럽다",
+      "야비하다",
+      "조용하다",
+      "솔직하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "senior",
+    "answer": "윗사람",
+    "options": [
+      "경쟁력",
+      "지식공유",
+      "윗사람",
+      "컴플라이언스"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "intention",
+    "answer": "의도",
+    "options": [
+      "차원",
+      "기업문화",
+      "의도",
+      "성과관리"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to admit, accept",
+    "answer": "인정하다",
+    "options": [
+      "기소하다",
+      "선호하다",
+      "반응하다",
+      "인정하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to pack / to take care of",
+    "answer": "챙기다",
+    "options": [
+      "기억하다",
+      "개시하다",
+      "이탈하다",
+      "챙기다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to figure out / to perceive",
+    "answer": "파악하다",
+    "options": [
+      "발견하다",
+      "인식하다",
+      "파악하다",
+      "밀어내다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "commonly",
+    "answer": "흔히",
+    "options": [
+      "공동으로",
+      "집중적으로",
+      "공손하게",
+      "흔히"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to bow one's head",
+    "answer": "고개를 숙이다",
+    "options": [
+      "비벼대다",
+      "중지하다",
+      "고개를 숙이다",
+      "중단하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to touch cheeks",
+    "answer": "볼을 맞대다",
+    "options": [
+      "예측되다",
+      "논의하다",
+      "볼을 맞대다",
+      "펼치다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to extend one’s hand",
+    "answer": "손을 내밀다",
+    "options": [
+      "이사하다",
+      "참여되다",
+      "수신하다",
+      "손을 내밀다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "to be confident",
+    "answer": "자신이 있다",
+    "options": [
+      "자신이 있다",
+      "추적하다",
+      "처리하다",
+      "끼얹다"
+    ],
+    "time_limit": 7
+  }
+]

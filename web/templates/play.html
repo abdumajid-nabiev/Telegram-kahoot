@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Play Quiz - {{ quizname }}</title>
+  <link rel="stylesheet" href="/static/css/styles.css" />
+  <style>
+    /* Extra styles for play mode */
+    #quiz-container {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    #question-text {
+      font-size: 1.3rem;
+      margin-bottom: 20px;
+    }
+
+    .option-btn {
+      display: block;
+      width: 100%;
+      max-width: 400px;
+      margin: 8px auto;
+      padding: 12px;
+      border-radius: 10px;
+      background-color: #3498db;
+      color: white;
+      font-weight: bold;
+      border: none;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      font-size: 1.1rem;
+    }
+
+    .option-btn:hover:not(.disabled) {
+      background-color: #2980b9;
+    }
+
+    .option-btn.correct {
+      background-color: #27ae60 !important;
+      color: white;
+      font-weight: bolder;
+    }
+
+    .option-btn.wrong {
+      background-color: #c0392b !important;
+      color: white;
+      font-weight: bolder;
+    }
+
+    .option-btn.disabled {
+      cursor: default;
+      opacity: 0.7;
+    }
+
+    #timer {
+      font-size: 1.4rem;
+      margin: 15px;
+      font-weight: bold;
+      color: #2980b9;
+    }
+
+    #score {
+      font-size: 1.2rem;
+      margin: 20px;
+      font-weight: bold;
+      color: #27ae60;
+    }
+
+    #result {
+      font-size: 1.5rem;
+      margin: 25px;
+      font-weight: bolder;
+      color: #34495e;
+    }
+  </style>
+</head>
+<body>
+  <h1>Quiz: {{ quizname }}</h1>
+  <div id="quiz-container">
+    <div id="timer">Time left: <span id="time-left"></span> s</div>
+    <div id="question-text"></div>
+    <div id="options-container"></div>
+    <div id="score"></div>
+    <button id="next-btn" style="display:none;">Next Question</button>
+    <div id="result" style="display:none;"></div>
+  </div>
+
+<script>
+  const quizname = "{{ quizname }}";
+  let quizData = [];
+  let currentQuestionIndex = 0;
+  let score = 0;
+  let timerInterval;
+  let timeLeft;
+
+  async function fetchQuiz() {
+    const res = await fetch(`/api/get_quiz/${quizname}`);
+    const data = await res.json();
+    if(data.error) {
+      alert(data.error);
+      return;
+    }
+    quizData = data;
+    startQuiz();
+  }
+
+  function startQuiz() {
+    score = 0;
+    currentQuestionIndex = 0;
+    showQuestion();
+  }
+
+  function showQuestion() {
+    clearInterval(timerInterval);
+    if(currentQuestionIndex >= quizData.length) {
+      showResult();
+      return;
+    }
+
+    const question = quizData[currentQuestionIndex];
+    document.getElementById("question-text").textContent = question.text;
+
+    const optionsContainer = document.getElementById("options-container");
+    optionsContainer.innerHTML = "";
+    question.options.forEach((opt, idx) => {
+      const btn = document.createElement("button");
+      btn.textContent = opt;
+      btn.className = "option-btn";
+      btn.onclick = () => handleAnswer(btn, opt);
+      optionsContainer.appendChild(btn);
+    });
+
+    // Timer setup
+    timeLeft = question.time_limit || 7;
+    document.getElementById("time-left").textContent = timeLeft;
+    timerInterval = setInterval(() => {
+      timeLeft--;
+      document.getElementById("time-left").textContent = timeLeft;
+      if(timeLeft <= 0) {
+        clearInterval(timerInterval);
+        disableOptions();
+        showCorrectAnswer();
+        showNextButton();
+      }
+    }, 1000);
+
+    document.getElementById("score").textContent = `Score: ${score}`;
+    document.getElementById("next-btn").style.display = "none";
+    document.getElementById("result").style.display = "none";
+  }
+
+  function handleAnswer(button, selected) {
+    clearInterval(timerInterval);
+    disableOptions();
+
+    const question = quizData[currentQuestionIndex];
+    const correctAnswer = question.answer;
+
+    if(selected === correctAnswer) {
+      button.classList.add("correct");
+      score++;
+      document.getElementById("score").textContent = `Score: ${score}`;
+    } else {
+      button.classList.add("wrong");
+      showCorrectAnswer();
+    }
+    showNextButton();
+  }
+
+  function disableOptions() {
+    document.querySelectorAll(".option-btn").forEach(btn => {
+      btn.disabled = true;
+      btn.classList.add("disabled");
+    });
+  }
+
+  function showCorrectAnswer() {
+    const question = quizData[currentQuestionIndex];
+    document.querySelectorAll(".option-btn").forEach(btn => {
+      if(btn.textContent === question.answer) {
+        btn.classList.add("correct");
+      }
+    });
+  }
+
+  function showNextButton() {
+    const nextBtn = document.getElementById("next-btn");
+    nextBtn.style.display = "inline-block";
+    nextBtn.onclick = () => {
+      currentQuestionIndex++;
+      showQuestion();
+    };
+  }
+
+  function showResult() {
+    document.getElementById("quiz-container").innerHTML = `
+      <h2>Quiz Completed!</h2>
+      <p>Your Score: ${score} / ${quizData.length}</p>
+      <button onclick="location.reload()">Play Again</button>
+      <button onclick="window.location.href='/'">Back to Editor</button>
+    `;
+  }
+
+  window.onload = fetchQuiz;
+</script>
+</body>
+</html>

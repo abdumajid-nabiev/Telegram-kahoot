@@ -1,0 +1,28 @@
+<!doctype html>
+<title>Quiz Preview</title>
+<h2>Preview Your Quiz</h2>
+<form method="post" action="{{ url_for('save_quiz') }}">
+  <label>Quiz name:</label>
+  <input type="text" name="quiz_name" placeholder="my_quiz_name" required>
+  <br><br>
+  <textarea name="quiz_json" rows="20" cols="80" readonly>{{ quiz|tojson(indent=2) }}</textarea>
+  <br><br>
+  <button type="submit">Save Quiz</button>
+</form>
+
+<h3>Questions Preview</h3>
+<ol>
+{% for q in quiz %}
+  <li>
+    <strong>{{ q.text }}</strong><br>
+    Options:
+    <ul>
+      {% for opt in q.options %}
+        <li>{{ opt }}</li>
+      {% endfor %}
+    </ul>
+    Correct answer: {{ q.answer }}
+    <hr>
+  </li>
+{% endfor %}
+</ol>

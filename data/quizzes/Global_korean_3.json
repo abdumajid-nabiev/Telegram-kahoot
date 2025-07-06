@@ -1,0 +1,596 @@
+[
+  {
+    "text": "medical checkup",
+    "answer": "검진",
+    "options": [
+      "검진",
+      "소비",
+      "설명서",
+      "강연"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "service fees,  utility bills",
+    "answer": "공과금",
+    "options": [
+      "공과금",
+      "재무보고",
+      "비즈니스모델",
+      "보안"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "ambulance",
+    "answer": "구급차",
+    "options": [
+      "기부자",
+      "자산관리",
+      "구급차",
+      "인식론"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "rescue",
+    "answer": "구조하다",
+    "options": [
+      "구조하다",
+      "삶다",
+      "지속하다",
+      "진행시키다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "urgent, critical",
+    "answer": "긴급",
+    "options": [
+      "주주총회",
+      "긴급",
+      "업무지시",
+      "판매전략"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "bend, break",
+    "answer": "꺾다",
+    "options": [
+      "포장하다",
+      "감소되다",
+      "정비하다",
+      "꺾다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "crack down on, control",
+    "answer": "단속하다",
+    "options": [
+      "예측하다",
+      "실사하다",
+      "단속하다",
+      "지향하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "flu",
+    "answer": "독감",
+    "options": [
+      "독감",
+      "조직문화",
+      "변화",
+      "안전"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "registration certificate",
+    "answer": "등록증",
+    "options": [
+      "비즈니스모델",
+      "품질",
+      "등록증",
+      "해외시장"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "expire",
+    "answer": "만료되다",
+    "options": [
+      "선언하다",
+      "갱신하다",
+      "추론하다",
+      "만료되다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "public complaint",
+    "answer": "민원",
+    "options": [
+      "민원",
+      "배송관리",
+      "기술개발",
+      "협상"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "criminal",
+    "answer": "범인",
+    "options": [
+      "범인",
+      "운영자",
+      "성과관리",
+      "자동화"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "crime",
+    "answer": "범죄",
+    "options": [
+      "범죄",
+      "경영혁신",
+      "부채비율",
+      "기술개발"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "health clinic",
+    "answer": "보건소",
+    "options": [
+      "보건소",
+      "거래처",
+      "기본",
+      "프로토타입"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "siren",
+    "answer": "사이렌",
+    "options": [
+      "개념",
+      "사이렌",
+      "비즈니스모델",
+      "경영진"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "sign",
+    "answer": "서명하다",
+    "options": [
+      "처리하다",
+      "확정하다",
+      "서명하다",
+      "적립하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "fire truck",
+    "answer": "소방차",
+    "options": [
+      "재무감사",
+      "제품설계",
+      "소방차",
+      "사업부문"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "store, put away",
+    "answer": "수납하다",
+    "options": [
+      "수납하다",
+      "받아들이다",
+      "투입하다",
+      "제정하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "report",
+    "answer": "신고하다",
+    "options": [
+      "복구하다",
+      "출력하다",
+      "신고하다",
+      "거래하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "feel relieved",
+    "answer": "안심하다",
+    "options": [
+      "비틀거리다",
+      "안심하다",
+      "대응시키다",
+      "분배되다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "prevention",
+    "answer": "예방",
+    "options": [
+      "평판",
+      "업무분장",
+      "판매전략",
+      "예방"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "operate",
+    "answer": "운영하다",
+    "options": [
+      "조작하다",
+      "잊다",
+      "운영하다",
+      "처리하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "driver’s license",
+    "answer": "운전면허",
+    "options": [
+      "공급",
+      "영업실적",
+      "운전면허",
+      "실험"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "vaccination",
+    "answer": "접종",
+    "options": [
+      "경영성과",
+      "승진제도",
+      "환경경영",
+      "접종"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "diagnosis report",
+    "answer": "진단서",
+    "options": [
+      "벤처기업",
+      "진단서",
+      "재무",
+      "불일치"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "indicate, mark",
+    "answer": "표시하다",
+    "options": [
+      "표시하다",
+      "진행하다",
+      "감싸다",
+      "촉발되다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "governance, management",
+    "answer": "행정",
+    "options": [
+      "생산설비",
+      "생산관리",
+      "과업",
+      "행정"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "Community Service Center",
+    "answer": "행정복지센터",
+    "options": [
+      "관리자",
+      "판촉행사",
+      "행정복지센터",
+      "의사소통"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "get scolded, be in trouble",
+    "answer": "혼나다",
+    "options": [
+      "쪼개다",
+      "혼나다",
+      "그만두다",
+      "해결하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "fire",
+    "answer": "화재",
+    "options": [
+      "마케팅전략",
+      "주주총회",
+      "변화",
+      "화재"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "public organization",
+    "answer": "공공 기관",
+    "options": [
+      "공공 기관",
+      "리스크관리",
+      "자율",
+      "자산관리"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "illegal parking",
+    "answer": "불법 주차",
+    "options": [
+      "불법 주차",
+      "보관",
+      "시장분석",
+      "관리자"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "Street light",
+    "answer": "가로등",
+    "options": [
+      "정보",
+      "총괄",
+      "가로등",
+      "경영성과"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "moreover, besides",
+    "answer": "게다가",
+    "options": [
+      "아슬아슬하게",
+      "아련하게",
+      "게다가",
+      "길게길게"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "roadside",
+    "answer": "길가",
+    "options": [
+      "인수합병",
+      "내용",
+      "길가",
+      "부가가치세"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "multilingual",
+    "answer": "다국어",
+    "options": [
+      "다국어",
+      "자격",
+      "문학",
+      "보호"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be in charge of, take charge of",
+    "answer": "담당하다",
+    "options": [
+      "조명하다",
+      "추진되다",
+      "환불하다",
+      "담당하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "neglect, abandon",
+    "answer": "방치하다",
+    "options": [
+      "재개하다",
+      "점검하다",
+      "제정하다",
+      "방치하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be thrown away",
+    "answer": "버려지다",
+    "options": [
+      "도입되다",
+      "버려지다",
+      "환불하다",
+      "탐색하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "social welfare studies",
+    "answer": "사회복지학",
+    "options": [
+      "법률검토",
+      "이익률",
+      "자본금",
+      "사회복지학"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "center director",
+    "answer": "센터장",
+    "options": [
+      "제품출시",
+      "센터장",
+      "업무프로세스",
+      "해킹공격"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "infrastructure",
+    "answer": "시설물",
+    "options": [
+      "시설물",
+      "관리자",
+      "경찰",
+      "분기별"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "city hall",
+    "answer": "시청",
+    "options": [
+      "시청",
+      "시장확대",
+      "구매계약",
+      "원가관리"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "implement, carry out",
+    "answer": "실시하다",
+    "options": [
+      "전개하다",
+      "혼잣말하다",
+      "실시하다",
+      "혼내다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "deposit",
+    "answer": "예금",
+    "options": [
+      "기업문화",
+      "위험관리",
+      "투자자",
+      "예금"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "upload a photo",
+    "answer": "사진을 올리다",
+    "options": [
+      "추출하다",
+      "승인하다",
+      "사진을 올리다",
+      "유보하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "adaptation",
+    "answer": "적응",
+    "options": [
+      "구매",
+      "적응",
+      "갈등관리",
+      "원자재"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "continuous, ongoing",
+    "answer": "지속적",
+    "options": [
+      "괴롭다",
+      "지속적",
+      "정중하다",
+      "명랑하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "area",
+    "answer": "지역",
+    "options": [
+      "계획",
+      "제품개발",
+      "지역",
+      "리스크관리"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "support",
+    "answer": "지원하다",
+    "options": [
+      "표현하다",
+      "지원하다",
+      "이사하다",
+      "부딪치다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "processing, handling",
+    "answer": "처리",
+    "options": [
+      "처리",
+      "자동화시스템",
+      "부분",
+      "유통"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "withdrawal",
+    "answer": "출금",
+    "options": [
+      "재무상태",
+      "성과",
+      "시장분석",
+      "출금"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "clear away",
+    "answer": "치우다",
+    "options": [
+      "직면하다",
+      "치우다",
+      "떠들다",
+      "방울지다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "attached file",
+    "answer": "첨부 파일",
+    "options": [
+      "벤처기업",
+      "수출입",
+      "자금조달",
+      "첨부 파일"
+    ],
+    "time_limit": 7
+  }
+]

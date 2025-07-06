@@ -1,0 +1,772 @@
+[
+  {
+    "text": "take into consideration",
+    "answer": "고려하다",
+    "options": [
+      "줄다",
+      "고려하다",
+      "미끄러지다",
+      "튀기다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "means of transportation",
+    "answer": "교통편",
+    "options": [
+      "사업계획",
+      "의사소통",
+      "교통편",
+      "지원"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "route / line",
+    "answer": "노선",
+    "options": [
+      "보고서",
+      "경향",
+      "매출액",
+      "노선"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "wait, stand by",
+    "answer": "대기하다",
+    "options": [
+      "검증하다",
+      "담다",
+      "울리다",
+      "대기하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "public transportation",
+    "answer": "대중교통",
+    "options": [
+      "대중교통",
+      "형사사건",
+      "회장",
+      "협동조합"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "awesome, stylish",
+    "answer": "멋지다",
+    "options": [
+      "따스하다",
+      "멋지다",
+      "소중하다",
+      "기괴하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "destination",
+    "answer": "목적지",
+    "options": [
+      "기술",
+      "목적지",
+      "변동",
+      "배송"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "pedestrian",
+    "answer": "보행자",
+    "options": [
+      "보행자",
+      "자본금",
+      "법률",
+      "증거자료"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "platform",
+    "answer": "승강장",
+    "options": [
+      "프로그램",
+      "승강장",
+      "성과",
+      "내부통제"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "passenger",
+    "answer": "승객",
+    "options": [
+      "데이터",
+      "업무분장",
+      "효과",
+      "승객"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "transportation ticket",
+    "answer": "승차권",
+    "options": [
+      "절차서",
+      "규칙",
+      "승차권",
+      "운영성과"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "intercity bus",
+    "answer": "시외버스",
+    "options": [
+      "시장점유율",
+      "권한",
+      "교육훈련",
+      "시외버스"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "signal",
+    "answer": "신호",
+    "options": [
+      "사이버범죄",
+      "신호",
+      "분석",
+      "사업확장"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "late night / midnight hours",
+    "answer": "심야",
+    "options": [
+      "경쟁우위",
+      "성과보고",
+      "심야",
+      "평판"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "severe / intense / extreme",
+    "answer": "심하다",
+    "options": [
+      "미련하다",
+      "좋다",
+      "텁텁하다",
+      "심하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "safety belt",
+    "answer": "안전띠",
+    "options": [
+      "안전띠",
+      "시장규모",
+      "품질검사",
+      "표준"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "be delayed",
+    "answer": "연착되다",
+    "options": [
+      "들썩이다",
+      "연착되다",
+      "검증하다",
+      "촉진하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "train",
+    "answer": "열차",
+    "options": [
+      "관심",
+      "열차",
+      "기여도",
+      "협업문화"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "manners / etiquette",
+    "answer": "예절",
+    "options": [
+      "배송",
+      "감사",
+      "예절",
+      "사업확장"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "operate / run",
+    "answer": "운행하다",
+    "options": [
+      "참조하다",
+      "흘러내리다",
+      "운행하다",
+      "벗다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "smooth, efficient",
+    "answer": "원활하다",
+    "options": [
+      "황량하다",
+      "괴롭다",
+      "원활하다",
+      "웅장하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "violate, breach",
+    "answer": "위반하다",
+    "options": [
+      "위반하다",
+      "수선하다",
+      "분석되다",
+      "해결하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "transfer / relocate",
+    "answer": "이동하다",
+    "options": [
+      "흘러가다",
+      "이동하다",
+      "찌다",
+      "이야기하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "take off",
+    "answer": "이륙하다",
+    "options": [
+      "명확하다",
+      "질문하다",
+      "이륙하다",
+      "연결하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "dedicated road / designated lane",
+    "answer": "전용도로",
+    "options": [
+      "분석",
+      "통계",
+      "기업문화",
+      "전용도로"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "congestion",
+    "answer": "정체",
+    "options": [
+      "수사관",
+      "시장세분화",
+      "정체",
+      "생산량"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "car/train window",
+    "answer": "차창",
+    "options": [
+      "공급망",
+      "성질",
+      "운영방안",
+      "차창"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "entrance and exit",
+    "answer": "출입구",
+    "options": [
+      "출입구",
+      "제품개발",
+      "복지",
+      "검찰청"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "refreshing,  pleasant",
+    "answer": "쾌적하다",
+    "options": [
+      "해체하다",
+      "쾌적하다",
+      "메모하다",
+      "달아나다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "board / get on",
+    "answer": "탑승하다",
+    "options": [
+      "이의하다",
+      "입력하다",
+      "탑승하다",
+      "분석되다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "commuting to / travel regularly",
+    "answer": "통학하다",
+    "options": [
+      "통학하다",
+      "태어나다",
+      "선정하다",
+      "회복하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "disembark, get off",
+    "answer": "하차하다",
+    "options": [
+      "확장하다",
+      "확산하다",
+      "명확하다",
+      "하차하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "flight fare",
+    "answer": "항공료",
+    "options": [
+      "기부자",
+      "항공료",
+      "관리자",
+      "연결"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "transfer",
+    "answer": "환승하다",
+    "options": [
+      "환승하다",
+      "선도하다",
+      "소거하다",
+      "관찰하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "pay attention to",
+    "answer": "신경을 쓰다",
+    "options": [
+      "외치다",
+      "간주하다",
+      "신경을 쓰다",
+      "얼다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "advertise",
+    "answer": "광고하다",
+    "options": [
+      "광고하다",
+      "욕하다",
+      "감소되다",
+      "입력하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "section / segment",
+    "answer": "구간",
+    "options": [
+      "구간",
+      "강연",
+      "참가자",
+      "상황"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "recommend,  encourage",
+    "answer": "권하다",
+    "options": [
+      "직면하다",
+      "권하다",
+      "체납하다",
+      "튕기다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "amount",
+    "answer": "금액",
+    "options": [
+      "금액",
+      "결합",
+      "성과지표",
+      "판매전략"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "emergency stop",
+    "answer": "급정거",
+    "options": [
+      "급정거",
+      "상징",
+      "평형",
+      "감사"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "heating and cooling",
+    "answer": "냉난방",
+    "options": [
+      "판매전략",
+      "냉난방",
+      "자율성",
+      "분기점"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "deal with / handle",
+    "answer": "대처하다",
+    "options": [
+      "집중하다",
+      "지키다",
+      "대처하다",
+      "재고하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "the same / similarly",
+    "answer": "마찬가지",
+    "options": [
+      "고객만족",
+      "자산관리",
+      "프로세스",
+      "마찬가지"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "charm / attraction",
+    "answer": "매력",
+    "options": [
+      "시설관리",
+      "교육",
+      "교육훈련",
+      "매력"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "opposite side",
+    "answer": "반대편",
+    "options": [
+      "인프라",
+      "영화",
+      "반대편",
+      "부가가치세"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "consideration",
+    "answer": "배려",
+    "options": [
+      "강연",
+      "현실",
+      "배려",
+      "운영진"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "spread",
+    "answer": "벌리다",
+    "options": [
+      "엎드리다",
+      "변명하다",
+      "달라붙다",
+      "벌리다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "collide with",
+    "answer": "부딧히다",
+    "options": [
+      "거절하다",
+      "기다",
+      "부딧히다",
+      "완료하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "discomfort",
+    "answer": "불쾌감",
+    "options": [
+      "불법이다",
+      "천진난만하다",
+      "알맞다",
+      "불쾌감"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "refrain from / abstain from",
+    "answer": "삼가다",
+    "options": [
+      "삼가다",
+      "조명하다",
+      "이탈하다",
+      "유발하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "method / way",
+    "answer": "수단",
+    "options": [
+      "사물인터넷",
+      "수단",
+      "전망",
+      "프로젝트관리"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "board / get on",
+    "answer": "승차하다",
+    "options": [
+      "집계되다",
+      "승차하다",
+      "흘려보내다",
+      "유지되다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "vulnerable person",
+    "answer": "약자",
+    "options": [
+      "이유",
+      "자격",
+      "방식",
+      "약자"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "give way / concede",
+    "answer": "양보하다",
+    "options": [
+      "양보하다",
+      "수정하다",
+      "중단되다",
+      "분석되다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "station office",
+    "answer": "역무실",
+    "options": [
+      "이유",
+      "지침",
+      "역무실",
+      "계획서"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "railway staff",
+    "answer": "역무원",
+    "options": [
+      "역무원",
+      "자본금",
+      "유통경로",
+      "진행"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "only/ unique",
+    "answer": "유일",
+    "options": [
+      "유일",
+      "포럼",
+      "시장점검",
+      "서버"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "ordinary person",
+    "answer": "일반인",
+    "options": [
+      "상황",
+      "사업비",
+      "일반인",
+      "실업률"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "pregnant woman",
+    "answer": "임산부",
+    "options": [
+      "관리자",
+      "시설관리",
+      "재무",
+      "임산부"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "disabled person",
+    "answer": "장애인",
+    "options": [
+      "장애인",
+      "내용",
+      "보관",
+      "영업이익"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "System / policy",
+    "answer": "제도",
+    "options": [
+      "집중력",
+      "제도",
+      "경제",
+      "지원"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "respect",
+    "answer": "존중하다",
+    "options": [
+      "연기하다",
+      "존중하다",
+      "해석하다",
+      "취급하다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "seat",
+    "answer": "좌석",
+    "options": [
+      "이사회",
+      "전망",
+      "고객관리",
+      "좌석"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "mainly",
+    "answer": "주로",
+    "options": [
+      "주로",
+      "부가적으로",
+      "수평으로",
+      "조심조심"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "instantly / at once",
+    "answer": "즉시",
+    "options": [
+      "명료하게",
+      "활기차게",
+      "슬쩍",
+      "즉시"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "exceed / go beyond",
+    "answer": "지나치다",
+    "options": [
+      "운영되다",
+      "뽑다",
+      "지적하다",
+      "지나치다"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "really",
+    "answer": "참",
+    "options": [
+      "사실대로",
+      "옆으로",
+      "참",
+      "확고하게"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "other people",
+    "answer": "타인",
+    "options": [
+      "내용",
+      "타인",
+      "품질보증",
+      "사업부"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "ventilation",
+    "answer": "환기",
+    "options": [
+      "통계",
+      "환기",
+      "대리인",
+      "주주총회"
+    ],
+    "time_limit": 7
+  },
+  {
+    "text": "lost property office",
+    "answer": "유실물 센터",
+    "options": [
+      "연구개발",
+      "유실물 센터",
+      "경험",
+      "사업부"
+    ],
+    "time_limit": 7
+  }
+]

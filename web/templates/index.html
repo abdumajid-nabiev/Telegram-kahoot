@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quiz Maker & Manager</title>
+  <link rel="stylesheet" href="/static/css/styles.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+  <h1>Quiz Maker & Manager</h1>
+
+  <!-- New Quiz Creation -->
+  <section id="new-quiz-section">
+    <h2>Create New Quiz</h2>
+    <input type="text" id="new-quiz-name" placeholder="Enter quiz filename (e.g. myquiz.json)" />
+    <button id="create-quiz-btn">Create Quiz</button>
+  </section>
+
+  <!-- Quiz List -->
+  <section id="quiz-list">
+    <h2>Your Quizzes</h2>
+    <ul id="quizzes-ul">
+      {% for quiz in quizzes %}
+      <li>
+        <span class="quiz-filename">{{ quiz }}</span>
+        <button class="load-quiz-btn" data-filename="{{ quiz }}">Edit</button>
+        <button class="delete-quiz-btn" data-filename="{{ quiz }}">Delete</button>
+        <a href="/play/{{ quiz }}" target="_blank" class="play-quiz-btn" title="Play Quiz">▶ Play</a>
+      </li>
+      {% else %}
+      <li>No quizzes found. Create one!</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <!-- Quiz Editor -->
+  <section id="editor" style="display:none;">
+    <h2>Edit Quiz: <span id="editing-filename"></span></h2>
+    <div id="questions-container"></div>
+    <button id="add-question-btn">+ Add Question</button>
+    <button id="save-quiz-btn">Save Quiz</button>
+    <button id="cancel-edit-btn">Cancel</button>
+  </section>
+
+  <script src="/static/js/main.js"></script>
+</body>
+</html>
