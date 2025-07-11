@@ -1,0 +1,277 @@
+[
+  {
+    "text": "reduce",
+    "answer": "축소하다",
+    "options": [
+      "잊다",
+      "축소하다",
+      "연결하다",
+      "추론하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "a quarter of a day",
+    "answer": "반나절",
+    "options": [
+      "성과지표",
+      "반나절",
+      "정착",
+      "사업운영"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "generalization, becoming common",
+    "answer": "보편화",
+    "options": [
+      "대책",
+      "사업계획",
+      "보편화",
+      "감사보고서"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "commission",
+    "answer": "수수료",
+    "options": [
+      "책임감",
+      "수수료",
+      "결과",
+      "조합"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Commission exemption",
+    "answer": "수수료 면제",
+    "options": [
+      "인증",
+      "서비스품질",
+      "홍보전략",
+      "수수료 면제"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "profit",
+    "answer": "이익",
+    "options": [
+      "이익",
+      "차이",
+      "시장조사",
+      "담당자"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "cryptocurrency",
+    "answer": "가상화폐",
+    "options": [
+      "경영분석",
+      "시장점유율",
+      "가상화폐",
+      "운영성과"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "hacking",
+    "answer": "해킹",
+    "options": [
+      "비즈니스모델",
+      "통합체",
+      "해킹",
+      "경영성과"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "old age class",
+    "answer": "노인 계층",
+    "options": [
+      "협력체",
+      "신용등급",
+      "노인 계층",
+      "협력자"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "be shunned[neglected]",
+    "answer": "소외당하다",
+    "options": [
+      "소외당하다",
+      "증진하다",
+      "승인하다",
+      "분석되다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "security",
+    "answer": "보안",
+    "options": [
+      "보안",
+      "성과평가",
+      "공급망",
+      "사례"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "firewall (for prevention of smth",
+    "answer": "방화벽",
+    "options": [
+      "실업률",
+      "방화벽",
+      "내부감사",
+      "판단"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "formation, creation",
+    "answer": "생성",
+    "options": [
+      "생성",
+      "영화",
+      "사업운영",
+      "성과"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "appearance",
+    "answer": "등장",
+    "options": [
+      "시험",
+      "등장",
+      "수요예측",
+      "정책"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "people who does smth hold majority.",
+    "answer": "은 사람이 대다수를 차지하다",
+    "options": [
+      "검출하다",
+      "쏟다",
+      "은 사람이 대다수를 차지하다",
+      "푸다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "problem appear",
+    "answer": "문제를 낳다/생기다",
+    "options": [
+      "보존하다",
+      "작동되다",
+      "물러나다",
+      "문제를 낳다/생기다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "regularize",
+    "answer": "본격화되다 / 일상화되다",
+    "options": [
+      "올라가다",
+      "수용하다",
+      "연기하다",
+      "본격화되다 / 일상화되다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "generalization, becoming common",
+    "answer": "보편화, 대중화",
+    "options": [
+      "설비관리",
+      "계약관리",
+      "전략적",
+      "보편화, 대중화"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "daily life",
+    "answer": "일상생활",
+    "options": [
+      "환율변동",
+      "추세",
+      "일상생활",
+      "성과관리"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "to want efficiency /effectiveness",
+    "answer": "효율성을 추구하다",
+    "options": [
+      "부탁하다",
+      "송신하다",
+      "유입하다",
+      "효율성을 추구하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "demand",
+    "answer": "요구",
+    "options": [
+      "자본",
+      "요구",
+      "교육",
+      "원가관리"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "be free of time restriction/ have time restriction",
+    "answer": "시간의 제약이 벗어나다/있다",
+    "options": [
+      "유보하다",
+      "대비하다",
+      "시간의 제약이 벗어나다/있다",
+      "들썩이다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "revitalize",
+    "answer": "활성화하다",
+    "options": [
+      "활성화하다",
+      "제지하다",
+      "철회하다",
+      "조정하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "but, on the contrary",
+    "answer": "그럼에도, 그러나, 와 달리, 이에 반해",
+    "options": [
+      "넉넉히",
+      "가급적",
+      "그럼에도, 그러나, 와 달리, 이에 반해",
+      "즉각"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "count (on one's fingers)",
+    "answer": "꼽다",
+    "options": [
+      "통제하다",
+      "차단하다",
+      "반입하다",
+      "꼽다"
+    ],
+    "time_limit": 10
+  }
+]

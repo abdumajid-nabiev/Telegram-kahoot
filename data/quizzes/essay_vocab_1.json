@@ -1,0 +1,332 @@
+[
+  {
+    "text": "smoking",
+    "answer": "흡연",
+    "options": [
+      "흡연",
+      "보안",
+      "경영전략",
+      "과목"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "respiratory organ",
+    "answer": "호흡기",
+    "options": [
+      "호흡기",
+      "영업활동",
+      "교육",
+      "기관"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "disease, illness",
+    "answer": "질환, 질병",
+    "options": [
+      "질환, 질병",
+      "계약",
+      "현상",
+      "전략적"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "serious",
+    "answer": "심각하다",
+    "options": [
+      "기묘하다",
+      "심각하다",
+      "설다",
+      "흔들리다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "human body",
+    "answer": "인체",
+    "options": [
+      "발표",
+      "인체",
+      "성과급",
+      "거래량"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "harmful",
+    "answer": "해롭다",
+    "options": [
+      "잔잔하다",
+      "해롭다",
+      "적막하다",
+      "흐릿하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "carbon monoxide",
+    "answer": "일산화탄소",
+    "options": [
+      "판촉행사",
+      "역사",
+      "일산화탄소",
+      "조사"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "smoker",
+    "answer": "흡연자",
+    "options": [
+      "흡연자",
+      "고객지원",
+      "교수",
+      "기반"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "smoke",
+    "answer": "연기",
+    "options": [
+      "철학",
+      "증권시장",
+      "연기",
+      "체계"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "ingredient, component",
+    "answer": "성분",
+    "options": [
+      "기관",
+      "언어",
+      "성분",
+      "블록체인"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "make smn smell",
+    "answer": "맡게 되다",
+    "options": [
+      "의존하다",
+      "맡게 되다",
+      "젖어들다",
+      "주입하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "reduce",
+    "answer": "낮추다",
+    "options": [
+      "낮추다",
+      "유예하다",
+      "썰다",
+      "양도하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "plan, way",
+    "answer": "방안",
+    "options": [
+      "신제품",
+      "방안",
+      "영업이익",
+      "사업비용"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "raise",
+    "answer": "인상하다",
+    "options": [
+      "이의하다",
+      "명명하다",
+      "인상하다",
+      "구축하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "offer option",
+    "answer": "선택사항을 제공하다",
+    "options": [
+      "도착하다",
+      "찍다",
+      "선택사항을 제공하다",
+      "절이다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "discrimination",
+    "answer": "차별",
+    "options": [
+      "차별",
+      "대출금리",
+      "제품설계",
+      "인식론"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "1. by force\n2. forcibly",
+    "answer": "강제적으로",
+    "options": [
+      "급하게",
+      "줄곧줄곧",
+      "강제적으로",
+      "총합적으로"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "cause, raise",
+    "answer": "일으키다",
+    "options": [
+      "확보하다",
+      "재구성하다",
+      "일으키다",
+      "되돌리다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "average",
+    "answer": "편균",
+    "options": [
+      "지식재산권",
+      "거래관계",
+      "심층",
+      "편균"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "category, class",
+    "answer": "유형",
+    "options": [
+      "보고서",
+      "유형",
+      "재무보고",
+      "소비자행동"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "aging",
+    "answer": "고령화",
+    "options": [
+      "보통",
+      "교육",
+      "환경",
+      "고령화"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "old age",
+    "answer": "노령",
+    "options": [
+      "승진제도",
+      "원칙",
+      "노령",
+      "채널관리"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "On the one hand , …. on the other hand",
+    "answer": "한편으로는, ….. 다른 한편으로는",
+    "options": [
+      "한편으로는, ….. 다른 한편으로는",
+      "제멋대로",
+      "아무렇게나",
+      "쉴새없이"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "workforce, manpower",
+    "answer": "노동력",
+    "options": [
+      "비용절감",
+      "조직문화",
+      "노동력",
+      "판매전략"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "productivity",
+    "answer": "생산성",
+    "options": [
+      "양상",
+      "체계",
+      "변화",
+      "생산성"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "population layer",
+    "answer": "인구층",
+    "options": [
+      "기부자",
+      "정책",
+      "거래량",
+      "인구층"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "senior citizen",
+    "answer": "노인",
+    "options": [
+      "노인",
+      "현재",
+      "단점",
+      "자산관리"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "finance",
+    "answer": "재정",
+    "options": [
+      "물류관리",
+      "재정",
+      "재판부",
+      "공급망관리"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "develop/cultivate national power",
+    "answer": "국력을 배양하다",
+    "options": [
+      "복호화하다",
+      "분석하다",
+      "흘러가다",
+      "국력을 배양하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "face, encounter",
+    "answer": "처하다",
+    "options": [
+      "기획하다",
+      "검토하다",
+      "진행되다",
+      "처하다"
+    ],
+    "time_limit": 10
+  }
+]
