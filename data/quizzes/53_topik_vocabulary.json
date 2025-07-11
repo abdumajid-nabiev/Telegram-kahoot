@@ -1,0 +1,343 @@
+[
+  {
+    "text": "Drastic / slight",
+    "answer": "대폭 / 소폭",
+    "options": [
+      "대폭 / 소폭",
+      "환경안전",
+      "회계감사",
+      "평판"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Constantly",
+    "answer": "지속적으로, 꾸준히",
+    "options": [
+      "지속적으로, 꾸준히",
+      "틀림없이",
+      "별도로",
+      "일시적으로"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Strong increase",
+    "answer": "두드러진 증가세",
+    "options": [
+      "자산관리",
+      "두드러진 증가세",
+      "계획안",
+      "사업계획서"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Based on",
+    "answer": "를 바탕으로",
+    "options": [
+      "를 바탕으로",
+      "조사",
+      "연대",
+      "인력배치"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "major factors",
+    "answer": "주요 요인",
+    "options": [
+      "등록",
+      "형사사건",
+      "주요 요인",
+      "고객만족"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "because of",
+    "answer": "N+으로 인해",
+    "options": [
+      "N+으로 인해",
+      "희끄무레하게",
+      "또박또박",
+      "섭섭하게"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Continue to rise",
+    "answer": "상승세를 이어가다",
+    "options": [
+      "상승세를 이어가다",
+      "막다",
+      "대응하다",
+      "압축하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "The demand for smth surges.",
+    "answer": "-에 대한 수요가 급증하다",
+    "options": [
+      "-에 대한 수요가 급증하다",
+      "끼얹다",
+      "변경하다",
+      "확장되다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Directly linked to",
+    "answer": "는 ….로 직결되다",
+    "options": [
+      "는 ….로 직결되다",
+      "참여시키다",
+      "진흥하다",
+      "취소하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Contribute to",
+    "answer": "-에 기여하다 / 공헌하다",
+    "options": [
+      "벗기다",
+      "접다",
+      "-에 기여하다 / 공헌하다",
+      "대응하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "On the contrary.",
+    "answer": "대조적으로",
+    "options": [
+      "차분히",
+      "머뭇머뭇",
+      "강렬하게",
+      "대조적으로"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Strategy  establishment required.",
+    "answer": "전략 수립이 요구된다.",
+    "options": [
+      "주의깊다",
+      "전략 수립이 요구된다.",
+      "부탁하다",
+      "전환하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "trend reversal",
+    "answer": "추세 전환",
+    "options": [
+      "영업활동",
+      "추세 전환",
+      "협력관계",
+      "협력사"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Gradual increase",
+    "answer": "점진적 증가",
+    "options": [
+      "재판부",
+      "실험",
+      "시장분석",
+      "점진적 증가"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "reach a peak",
+    "answer": "정점에 달하다",
+    "options": [
+      "묻다",
+      "환호하다",
+      "중지하다",
+      "정점에 달하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "minimum / maximum",
+    "answer": "최소치 / 최대치",
+    "options": [
+      "채널관리",
+      "자격",
+      "최소치 / 최대치",
+      "계약조건"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "share",
+    "answer": "점유율 / 구성비",
+    "options": [
+      "점유율 / 구성비",
+      "언어",
+      "환경경영",
+      "수요예측"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "proportion",
+    "answer": "비중/비율",
+    "options": [
+      "기록",
+      "지식",
+      "비중/비율",
+      "시장조사"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "상승, 향상, 증대",
+    "answer": "증가",
+    "options": [
+      "협의체",
+      "경영전략",
+      "환율변동",
+      "증가"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "하락, 저하, 단축, 쇠퇴",
+    "answer": "감소",
+    "options": [
+      "감소",
+      "소재",
+      "집단",
+      "물류운영"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "최저치를 기록했다 / 최소 수준으로 줄였다",
+    "answer": "저점 / Lowest point",
+    "options": [
+      "저점 / Lowest point",
+      "선정하다",
+      "수용하다",
+      "맞추다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "고점에 도달했다.",
+    "answer": "고점 / reaching the highest point",
+    "options": [
+      "고점 / reaching the highest point",
+      "응시하다",
+      "종료하다",
+      "양념하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "entered a gentle decline",
+    "answer": "완만한 하락세로 접어들었다",
+    "options": [
+      "반박하다",
+      "수행하다",
+      "완화하다",
+      "완만한 하락세로 접어들었다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "stayed in stagnation",
+    "answer": "정체 상태에 머물렀다",
+    "options": [
+      "운동하다",
+      "결정하다",
+      "정체 상태에 머물렀다",
+      "지원하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "takes up the largest proportion",
+    "answer": "이 가장 높은 비중을 차지하다",
+    "options": [
+      "호소하다",
+      "이 가장 높은 비중을 차지하다",
+      "방울지다",
+      "검사하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Accounted for △△% of the total",
+    "answer": "전체의 △△%를 차지했다",
+    "options": [
+      "대비하다",
+      "제정하다",
+      "찍다",
+      "전체의 △△%를 차지했다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Showed the lowest share",
+    "answer": "은 가장 낮은 점유율을 보였다",
+    "options": [
+      "반입하다",
+      "강요하다",
+      "은 가장 낮은 점유율을 보였다",
+      "조작하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Comprised over half",
+    "answer": "절반 이상을 구성했다",
+    "options": [
+      "절반 이상을 구성했다",
+      "익히다",
+      "보완하다",
+      "제한하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Among the items, ○○ is the largest component",
+    "answer": "구성 항목 중 ○○이 가장 크다",
+    "options": [
+      "울리다",
+      "완성되다",
+      "구성 항목 중 ○○이 가장 크다",
+      "수립하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "The ○○ item increased compared to the previous year",
+    "answer": "항목이 전년 대비 증가했다",
+    "options": [
+      "전송하다",
+      "조정되다",
+      "관리되다",
+      "항목이 전년 대비 증가했다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "make up",
+    "answer": "구성하다",
+    "options": [
+      "구성하다",
+      "참여되다",
+      "협상하다",
+      "흘러가다"
+    ],
+    "time_limit": 10
+  }
+]
