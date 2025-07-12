@@ -30,7 +30,7 @@ from quiz_handler import (
     get_rankings,
     host_quiz,
     start_hosted_quiz,
-    
+    handle_quizlist_buttons
 )
 import quiz_handler
 from telegram.ext import CommandHandler, CallbackQueryHandler, ConversationHandler, MessageHandler, filters
@@ -175,6 +175,7 @@ if __name__ == "__main__":
     app.add_handler(CommandHandler("help", help_command))
     app.add_handler(CommandHandler("createquiz", createquiz_command))
     app.add_handler(CommandHandler("quizlist", quizlist_command))
+    app.add_handler(CallbackQueryHandler(handle_quizlist_buttons, pattern="^(QUIZ|UP|DOWN|ENTER_REORDER|EXIT_REORDER)"))
     app.add_handler(CallbackQueryHandler(select_quiz, pattern="^QUIZ_"))
     app.add_handler(CallbackQueryHandler(handle_answer))
     app.add_handler(MessageHandler(filters.TEXT | filters.PHOTO, handle_quiz_creation))
@@ -196,4 +197,5 @@ if __name__ == "__main__":
 
     print("Bot is running...")
     app.run_polling()
+   
    
