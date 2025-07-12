@@ -1,0 +1,519 @@
+[
+  {
+    "text": "be not hindered by,",
+    "answer": "불구하다",
+    "options": [
+      "불구하다",
+      "참고되다",
+      "뻗다",
+      "작성하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "although, despite",
+    "answer": "불구하고",
+    "options": [
+      "힘껏",
+      "조용조용",
+      "불구하고",
+      "끝까지"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "representative",
+    "answer": "대표적인",
+    "options": [
+      "연맹",
+      "수익률",
+      "대표적인",
+      "서비스품질"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "be counted / cited",
+    "answer": "을/를    꼽/들 수 있다",
+    "options": [
+      "엎드리다",
+      "외치다",
+      "을/를    꼽/들 수 있다",
+      "보호하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "Let alone A, even B is not possible",
+    "answer": "A/V-기는커녕, N-은/는커녕",
+    "options": [
+      "길게길게",
+      "A/V-기는커녕, N-은/는커녕",
+      "연일",
+      "마구"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "decrease in demand",
+    "answer": "수요가 줄어들다",
+    "options": [
+      "유도하다",
+      "반복하다",
+      "주의하다",
+      "수요가 줄어들다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "continue, go on",
+    "answer": "이어지다",
+    "options": [
+      "동의하다",
+      "이어지다",
+      "물러나다",
+      "완성하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "on top of that",
+    "answer": "게다가",
+    "options": [
+      "흥분해서",
+      "반듯이",
+      "게다가",
+      "느긋하게"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "bad effect",
+    "answer": "악영향",
+    "options": [
+      "협회",
+      "악영향",
+      "자본금",
+      "사용자경험"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "stop working",
+    "answer": "옷을 벗다/  일을 잃다/ 그만두다",
+    "options": [
+      "울리다",
+      "분산되다",
+      "옷을 벗다/  일을 잃다/ 그만두다",
+      "끼이다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "first (of all), above all",
+    "answer": "무엇보다",
+    "options": [
+      "따뜻하게따뜻하게",
+      "무엇보다",
+      "색다르게",
+      "급히"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "include",
+    "answer": "비롯하다 / 포함하다",
+    "options": [
+      "비롯하다 / 포함하다",
+      "전환하다",
+      "조율하다",
+      "분리하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "in addition to security",
+    "answer": "보안에 더불어",
+    "options": [
+      "보안에 더불어",
+      "지연 없이",
+      "덧대듯이",
+      "덧붙여"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "via",
+    "answer": "을  통해",
+    "options": [
+      "자신 있게",
+      "을  통해",
+      "외부적으로",
+      "막힘없이"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "To unburden burden",
+    "answer": "불편을 덜어 주다",
+    "options": [
+      "주도되다",
+      "탐색하다",
+      "불편을 덜어 주다",
+      "선정하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "replace a job",
+    "answer": "일자리를 대체하다",
+    "options": [
+      "말리다",
+      "투입하다",
+      "이사하다",
+      "일자리를 대체하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "more",
+    "answer": "더욱",
+    "options": [
+      "아래에서",
+      "더욱",
+      "변덕스럽게",
+      "꽉"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "prevent, block",
+    "answer": "방지하다",
+    "options": [
+      "방지하다",
+      "수정하다",
+      "익히다",
+      "조율하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "reduce",
+    "answer": "단축하다",
+    "options": [
+      "내리다",
+      "실행되다",
+      "단축하다",
+      "감시하다"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "transcription",
+    "answer": "필사",
+    "options": [
+      "내용",
+      "편집자",
+      "품질관리",
+      "필사"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "social responsibility",
+    "answer": "사회적 책임",
+    "options": [
+      "계약",
+      "사회적 책임",
+      "자격",
+      "전략수립"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "education gap",
+    "answer": "교육 격차",
+    "options": [
+      "상황",
+      "교육 격차",
+      "영화",
+      "경쟁우위"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "public / private education",
+    "answer": "공교육 / 사교육",
+    "options": [
+      "서비스관리",
+      "프로모션",
+      "공교육 / 사교육",
+      "학습"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "creativity development",
+    "answer": "창의성 개발",
+    "options": [
+      "신제품",
+      "복리후생",
+      "창의성 개발",
+      "발명"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "career exploration",
+    "answer": "진로 탐색",
+    "options": [
+      "회계처리",
+      "비용절감",
+      "인터페이스",
+      "진로 탐색"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "learning motivation",
+    "answer": "학습 동기",
+    "options": [
+      "생산관리",
+      "공정관리",
+      "학습 동기",
+      "단계"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "rising unemployment",
+    "answer": "실업률 증가",
+    "options": [
+      "실업률 증가",
+      "추세",
+      "감시",
+      "상황"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "employment stability",
+    "answer": "고용 안정성",
+    "options": [
+      "연대",
+      "전술",
+      "교환",
+      "고용 안정성"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "improvement of working conditions",
+    "answer": "노동 환경 개선",
+    "options": [
+      "머신러닝",
+      "환경",
+      "범위",
+      "노동 환경 개선"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "productivity improvement",
+    "answer": "생산성 향상",
+    "options": [
+      "소송사건",
+      "생산성 향상",
+      "환율변동",
+      "수행"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "work-life balance",
+    "answer": "일과 삶의 균형",
+    "options": [
+      "재원",
+      "일과 삶의 균형",
+      "경쟁력강화",
+      "계약조건"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "automation / unmanned systems",
+    "answer": "자동화 / 무인화",
+    "options": [
+      "자원관리",
+      "자동화 / 무인화",
+      "주식시장",
+      "수사관"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "cybercrime",
+    "answer": "사이버 범죄",
+    "options": [
+      "사이버 범죄",
+      "보고서",
+      "경영혁신",
+      "발굴"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "online interaction",
+    "answer": "온라인 상호작용",
+    "options": [
+      "생태계",
+      "목표",
+      "컨퍼런스",
+      "온라인 상호작용"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "environmental destruction",
+    "answer": "환경 파괴",
+    "options": [
+      "역할",
+      "물류관리",
+      "환경 파괴",
+      "비용절감"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "carbon emissions / greenhouse gases",
+    "answer": "탄소 배출 / 온실가스",
+    "options": [
+      "민사소송",
+      "관계",
+      "탄소 배출 / 온실가스",
+      "자산운용"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "ecosystem damage",
+    "answer": "생태계 파괴",
+    "options": [
+      "인쇄",
+      "생산라인",
+      "생태계 파괴",
+      "위험관리"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "eco-friendly policy",
+    "answer": "친환경 정책",
+    "options": [
+      "협의체",
+      "로봇",
+      "연구개발",
+      "친환경 정책"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "renewable energy",
+    "answer": "재생 에너지",
+    "options": [
+      "지지층",
+      "시장규모",
+      "재생 에너지",
+      "진행"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "environmental awareness",
+    "answer": "환경 의식",
+    "options": [
+      "정산",
+      "환경 의식",
+      "고객관리",
+      "목적"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "policy implementation",
+    "answer": "정책 도입",
+    "options": [
+      "소득세",
+      "발전",
+      "정책 도입",
+      "환경안전"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "preventive measure",
+    "answer": "예방 조치",
+    "options": [
+      "환경",
+      "사업계획",
+      "예방 조치",
+      "조직"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "long-term perspective",
+    "answer": "장기적인 관점",
+    "options": [
+      "장기적인 관점",
+      "거래처",
+      "성과",
+      "협력체계"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "effective measure",
+    "answer": "실효성 있는 방안",
+    "options": [
+      "관리자",
+      "기반시설",
+      "내용",
+      "실효성 있는 방안"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "fundamental issue",
+    "answer": "본질적인 문제",
+    "options": [
+      "지침",
+      "본질적인 문제",
+      "비용",
+      "내용"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "core value",
+    "answer": "핵심 가치",
+    "options": [
+      "조건",
+      "강연",
+      "영업활동",
+      "핵심 가치"
+    ],
+    "time_limit": 10
+  },
+  {
+    "text": "to approach from multiple angles",
+    "answer": "다각도에서 접근하다",
+    "options": [
+      "관계",
+      "조직원",
+      "특징",
+      "다각도에서 접근하다"
+    ],
+    "time_limit": 10
+  }
+]

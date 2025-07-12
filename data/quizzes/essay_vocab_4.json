@@ -1,0 +1,728 @@
+[
+  {
+    "text": "social structure",
+    "answer": "사회 구조",
+    "options": [
+      "사회 구조",
+      "시장규모",
+      "집행자",
+      "자원"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "social integration",
+    "answer": "사회 통합",
+    "options": [
+      "공급",
+      "사회 통합",
+      "핀테크",
+      "판매전략"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "marginalized group",
+    "answer": "소외 계층",
+    "options": [
+      "경쟁분석",
+      "회계감사",
+      "협상력",
+      "소외 계층"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "community spirit",
+    "answer": "공동체 의식",
+    "options": [
+      "공동체 의식",
+      "배송",
+      "조직문화",
+      "자격"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "social inequality",
+    "answer": "사회 불평등",
+    "options": [
+      "사회 불평등",
+      "프로젝트관리",
+      "경찰서",
+      "마케팅전략"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "cultural diversity",
+    "answer": "문화 다양성",
+    "options": [
+      "예상",
+      "성과",
+      "문화 다양성",
+      "시장규모"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "morality",
+    "answer": "도덕성",
+    "options": [
+      "승진제도",
+      "증거",
+      "도덕성",
+      "조직구조"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "social safety net",
+    "answer": "사회 안전망",
+    "options": [
+      "사회 안전망",
+      "운영비",
+      "절차",
+      "외주관리"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "social norms",
+    "answer": "사회 규범",
+    "options": [
+      "자원관리",
+      "책임자",
+      "증명서",
+      "사회 규범"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "curriculum content",
+    "answer": "교육 내용",
+    "options": [
+      "무역",
+      "교육 내용",
+      "이사회",
+      "후원자"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "economic growth",
+    "answer": "경제 성장",
+    "options": [
+      "경제 성장",
+      "자본",
+      "성질",
+      "범위"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "income gap",
+    "answer": "소득 격차",
+    "options": [
+      "진단서",
+      "경쟁력강화",
+      "소득 격차",
+      "대표"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "labor market",
+    "answer": "노동 시장",
+    "options": [
+      "역량",
+      "노동 시장",
+      "시장진입",
+      "자동화"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "standard of living",
+    "answer": "생활 수준",
+    "options": [
+      "생활 수준",
+      "조직문화",
+      "경험",
+      "경영혁신"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "productivity",
+    "answer": "생산성",
+    "options": [
+      "기술",
+      "생산성",
+      "단체",
+      "마케팅전략"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "consumption patterns",
+    "answer": "소비 패턴",
+    "options": [
+      "계획안",
+      "전술",
+      "소비 패턴",
+      "서류"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "wage structure",
+    "answer": "임금 구조",
+    "options": [
+      "봉사자",
+      "임금 구조",
+      "언어",
+      "등록"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "economic downturn",
+    "answer": "경기 침체",
+    "options": [
+      "훈련",
+      "거래관계",
+      "경기 침체",
+      "경향"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "working conditions",
+    "answer": "근로 조건",
+    "options": [
+      "수출입",
+      "근로 조건",
+      "공정거래",
+      "계획안"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "job satisfaction",
+    "answer": "직업 만족도",
+    "options": [
+      "자산관리",
+      "지침",
+      "직업 만족도",
+      "구성"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "labor environment",
+    "answer": "노동 환경",
+    "options": [
+      "노동 환경",
+      "거래관계",
+      "경영자원",
+      "품질관리"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "job creation",
+    "answer": "일자리 창출",
+    "options": [
+      "사장",
+      "일자리 창출",
+      "조직원",
+      "연구"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "working hours",
+    "answer": "노동 시간",
+    "options": [
+      "매출액",
+      "노동 시간",
+      "사업비용",
+      "인터페이스"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "employment type",
+    "answer": "고용 형태",
+    "options": [
+      "고용 형태",
+      "검사",
+      "경영진",
+      "범위"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "job competency",
+    "answer": "직무 능력",
+    "options": [
+      "통합체",
+      "리스크관리",
+      "환경경영",
+      "직무 능력"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "labor-management relations",
+    "answer": "노사 관계",
+    "options": [
+      "현상",
+      "노사 관계",
+      "수행자",
+      "결정"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "employment rate",
+    "answer": "고용률",
+    "options": [
+      "시장점유",
+      "평균",
+      "고용률",
+      "경쟁시장"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "resignation rate",
+    "answer": "퇴사율",
+    "options": [
+      "성과",
+      "퇴사율",
+      "지향점",
+      "협동조합"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "technological innovation",
+    "answer": "기술 혁신",
+    "options": [
+      "재무감사",
+      "권한",
+      "기술 혁신",
+      "효과"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "digital divide",
+    "answer": "디지털 격차",
+    "options": [
+      "기술자",
+      "연수",
+      "디지털 격차",
+      "분야별"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "artificial intelligence",
+    "answer": "인공지능",
+    "options": [
+      "시장동향",
+      "연계",
+      "조직행동",
+      "인공지능"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "information security",
+    "answer": "정보 보안",
+    "options": [
+      "시장점유",
+      "재해복구",
+      "정보 보안",
+      "경험"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "personal data leak",
+    "answer": "개인정보 유출",
+    "options": [
+      "사업비",
+      "개인정보 유출",
+      "운영관리",
+      "마케팅전략"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "digital literacy",
+    "answer": "디지털 문해력",
+    "options": [
+      "상황",
+      "디지털 문해력",
+      "승인권",
+      "사례"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "big data",
+    "answer": "빅데이터",
+    "options": [
+      "조직개발",
+      "결과",
+      "빅데이터",
+      "사업부"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "automation",
+    "answer": "자동화",
+    "options": [
+      "변화",
+      "진행률",
+      "자동화",
+      "역사"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "IT infrastructure",
+    "answer": "IT 인프라",
+    "options": [
+      "계약조건",
+      "사업부문",
+      "IT 인프라",
+      "이론"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "cybercrime",
+    "answer": "사이버 범죄",
+    "options": [
+      "리스크관리",
+      "기반시설",
+      "사이버 범죄",
+      "재산세"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "environmental pollution",
+    "answer": "환경 오염",
+    "options": [
+      "성과",
+      "환경 오염",
+      "비전문가",
+      "블록체인"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "climate change",
+    "answer": "기후 변화",
+    "options": [
+      "기후 변화",
+      "서비스품질",
+      "결과",
+      "조건"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "global warming",
+    "answer": "지구 온난화",
+    "options": [
+      "통계",
+      "지구 온난화",
+      "로봇공학",
+      "경영혁신"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "ecosystem",
+    "answer": "생태계",
+    "options": [
+      "협력",
+      "공급망",
+      "조직개발",
+      "생태계"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "carbon emission",
+    "answer": "탄소 배출",
+    "options": [
+      "인력개발",
+      "탄소 배출",
+      "품질관리",
+      "재무관리"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "natural resources",
+    "answer": "자연 자원",
+    "options": [
+      "자연 자원",
+      "시장",
+      "의견",
+      "협력"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "renewable energy",
+    "answer": "재생 에너지",
+    "options": [
+      "시장세분화",
+      "재생 에너지",
+      "사업전략",
+      "제품설계"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "eco-friendly tech",
+    "answer": "친환경 기술",
+    "options": [
+      "자료",
+      "친환경 기술",
+      "집행자",
+      "분기별"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "environmental awareness",
+    "answer": "환경 의식",
+    "options": [
+      "거래처",
+      "운영자",
+      "환경 의식",
+      "생산"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "sustainability",
+    "answer": "지속 가능성",
+    "options": [
+      "수익률",
+      "지속 가능성",
+      "형태",
+      "의견"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "policy introduction",
+    "answer": "정책 도입",
+    "options": [
+      "재원",
+      "분석",
+      "협력사",
+      "정책 도입"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "system improvement",
+    "answer": "제도 개선",
+    "options": [
+      "제도 개선",
+      "원가관리",
+      "거래처",
+      "성과지표"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "legal regulation",
+    "answer": "법적 규제",
+    "options": [
+      "시장세분화",
+      "수행자",
+      "오염",
+      "법적 규제"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "budget support",
+    "answer": "예산 지원",
+    "options": [
+      "상황",
+      "조직관리",
+      "예산 지원",
+      "의사소통"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "government intervention",
+    "answer": "정부 개입",
+    "options": [
+      "주주총회",
+      "계획",
+      "보고서",
+      "정부 개입"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "administrative procedure",
+    "answer": "행정 절차",
+    "options": [
+      "행정 절차",
+      "근무환경",
+      "경영성과",
+      "영업이익"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "public service",
+    "answer": "공공 서비스",
+    "options": [
+      "데이터베이스",
+      "이론",
+      "공공 서비스",
+      "고객관리"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "welfare policy",
+    "answer": "복지 정책",
+    "options": [
+      "단점",
+      "복지 정책",
+      "이사회",
+      "사업개발"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "implementation plan",
+    "answer": "시행 방안",
+    "options": [
+      "프로모션",
+      "재무제표",
+      "연구",
+      "시행 방안"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "policy assessment",
+    "answer": "정책 평가",
+    "options": [
+      "주식시장",
+      "내수시장",
+      "광고효과",
+      "정책 평가"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "aging society",
+    "answer": "고령화",
+    "options": [
+      "고령화",
+      "공간",
+      "인공지능",
+      "결제"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "low birthrate",
+    "answer": "저출산",
+    "options": [
+      "저출산",
+      "수익성",
+      "체계",
+      "부채비율"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "wealth gap",
+    "answer": "빈부 격차",
+    "options": [
+      "편집자",
+      "사업운영",
+      "성과",
+      "빈부 격차"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "crime rate",
+    "answer": "범죄율",
+    "options": [
+      "범죄율",
+      "성과관리",
+      "무역",
+      "협상"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "youth issues",
+    "answer": "청소년 문제",
+    "options": [
+      "청소년 문제",
+      "전술",
+      "생산설비",
+      "기술혁신"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "domestic violence",
+    "answer": "가정 폭력",
+    "options": [
+      "인사관리",
+      "경영혁신",
+      "관심",
+      "가정 폭력"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "addiction issues",
+    "answer": "중독 문제",
+    "options": [
+      "분석",
+      "중독 문제",
+      "규범",
+      "관계"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "hate speech",
+    "answer": "혐오 표현",
+    "options": [
+      "디지털트랜스포메이션",
+      "추진력",
+      "지리",
+      "혐오 표현"
+    ],
+    "time_limit": 15
+  }
+]

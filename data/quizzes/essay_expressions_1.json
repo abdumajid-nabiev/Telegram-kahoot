@@ -1,0 +1,464 @@
+[
+  {
+    "text": "due to, because of",
+    "answer": "…으로 인해",
+    "options": [
+      "일관성 있게",
+      "일단",
+      "…으로 인해",
+      "벌떡"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "because, since",
+    "answer": "…기 때문에 / …는 까닭에",
+    "options": [
+      "되도록",
+      "강력히",
+      "확실하게",
+      "…기 때문에 / …는 까닭에"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "to originate from, to stem from",
+    "answer": "…는 데에서 비롯되다",
+    "options": [
+      "공교롭게",
+      "어떻게든",
+      "…는 데에서 비롯되다",
+      "차갑게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "this is a major cause of..",
+    "answer": "…는 것이 주요한 원인이다",
+    "options": [
+      "성의껏",
+      "…는 것이 주요한 원인이다",
+      "무질서하게",
+      "요란하게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "due to the influence of...",
+    "answer": "…의 영향으로",
+    "options": [
+      "거세게",
+      "…의 영향으로",
+      "덜컥덜컥",
+      "제멋대로"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "to be derived from, to result from",
+    "answer": "…에서 기인하다",
+    "options": [
+      "당당하게",
+      "잇따라",
+      "…에서 기인하다",
+      "가만히"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "It does more harm than good.",
+    "answer": "좋기는 커녕 도리어 해롭다",
+    "options": [
+      "덧붙여",
+      "설렘으로",
+      "공동으로",
+      "좋기는 커녕 도리어 해롭다"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "unlike...",
+    "answer": "…와/과 달리",
+    "options": [
+      "가득",
+      "…와/과 달리",
+      "묵묵히",
+      "색다르게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "in stark contrast to...",
+    "answer": "…와는 대조적으로",
+    "options": [
+      "불규칙적으로",
+      "…와는 대조적으로",
+      "근처에서",
+      "짧게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "nevertheless, despite that",
+    "answer": "그럼에도 불구하고",
+    "options": [
+      "위쪽으로",
+      "길게",
+      "그럼에도 불구하고",
+      "주룩주룩"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "moreover, furthermore",
+    "answer": "게다가 / 더욱이",
+    "options": [
+      "일정하게",
+      "화끈하게",
+      "살짝살짝",
+      "게다가 / 더욱이"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "not only this, even..",
+    "answer": "이뿐만 아니라 / 심지어",
+    "options": [
+      "괴상하게",
+      "우선순위로",
+      "따뜻히",
+      "이뿐만 아니라 / 심지어"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "additionally",
+    "answer": "추가적으로",
+    "options": [
+      "즉흥적으로",
+      "가끔가끔",
+      "추가적으로",
+      "정확히"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "we must not ignore",
+    "answer": "…는 점도 간과할 수 없다",
+    "options": [
+      "뚜벅뚜벅",
+      "…는 점도 간과할 수 없다",
+      "얽히게",
+      "서서히"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "therefore, as a result",
+    "answer": "따라서 / 그 결과",
+    "options": [
+      "색다르게",
+      "고르게",
+      "매우",
+      "따라서 / 그 결과"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "eventually, finally",
+    "answer": "결국 / 마침내",
+    "options": [
+      "대놓고",
+      "결국 / 마침내",
+      "반대로",
+      "숨가쁘게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "this change causes...",
+    "answer": "이러한 변화는 …을 야기한다",
+    "options": [
+      "일시적이나마",
+      "부분적으로",
+      "이러한 변화는 …을 야기한다",
+      "성의껏"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "if this situation continues...",
+    "answer": "이러한 상황이 지속된다면 …",
+    "options": [
+      "잔잔히",
+      "이러한 상황이 지속된다면 …",
+      "선선히",
+      "결코"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "this affects...",
+    "answer": "이는 …에 영향을 미친다",
+    "options": [
+      "일관되게",
+      "줄줄이",
+      "눈깜짝할 새에",
+      "이는 …에 영향을 미친다"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "in order to solve this",
+    "answer": "해결하기 위해서는",
+    "options": [
+      "동시에",
+      "숨가쁘게",
+      "해결하기 위해서는",
+      "조근조근"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "as a solution, there is...",
+    "answer": "방안으로는 …이 있다",
+    "options": [
+      "이따금",
+      "어지럽게",
+      "방안으로는 …이 있다",
+      "자꾸"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "first... then... finally...",
+    "answer": "먼저 … 다음으로 … 마지막으로 …",
+    "options": [
+      "덧대듯이",
+      "무한히",
+      "먼저 … 다음으로 … 마지막으로 …",
+      "균등하게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "policy-level support is needed",
+    "answer": "정책적인 지원이 필요하다",
+    "options": [
+      "편향되게",
+      "개별적으로",
+      "정책적인 지원이 필요하다",
+      "집단적으로"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "must follow concrete action",
+    "answer": "구체적인 실천이 뒤따라야 한다",
+    "options": [
+      "말끔하게",
+      "동시에",
+      "구체적인 실천이 뒤따라야 한다",
+      "공교롭게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "a more fundamental countermeasure is required",
+    "answer": "보다 근본적인 대책이 요구된다",
+    "options": [
+      "정신적으로",
+      "보다 근본적인 대책이 요구된다",
+      "마구마구",
+      "내리내리"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "especially, above all, the most important is...",
+    "answer": "특히 / 무엇보다도 / 가장 중요한 것은",
+    "options": [
+      "근면하게",
+      "특히 / 무엇보다도 / 가장 중요한 것은",
+      "절실히",
+      "모호하게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "What should not be overlooked…",
+    "answer": "간과해서는 안 되는 점은 …",
+    "options": [
+      "공교롭게",
+      "붙여서",
+      "간과해서는 안 되는 점은 …",
+      "불규칙적으로"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "the point to focus on is...",
+    "answer": "주목해야 할 점은 …",
+    "options": [
+      "주목해야 할 점은 …",
+      "고르게",
+      "수직으로",
+      "가끔씩"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "The key factor is…",
+    "answer": "핵심적인 요소는 …이다",
+    "options": [
+      "요란하게",
+      "공교롭게",
+      "핵심적인 요소는 …이다",
+      "헌신적으로"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "in this regard, … is very important",
+    "answer": "이런 점에서 …는 매우 중요하다",
+    "options": [
+      "무채색으로",
+      "꾸준히",
+      "예리하게",
+      "이런 점에서 …는 매우 중요하다"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "if … happens, … will result",
+    "answer": "만약 …한다면, …게 될 것이다",
+    "options": [
+      "허겁지겁",
+      "만약 …한다면, …게 될 것이다",
+      "차갑게차갑게",
+      "일찍"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "in case of …, … is likely",
+    "answer": "…할 경우, …할 가능성이 높다",
+    "options": [
+      "덜렁덜렁",
+      "…할 경우, …할 가능성이 높다",
+      "느긋하게",
+      "은연중에"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "if such efforts continue...",
+    "answer": "이러한 노력이 지속된다면 …",
+    "options": [
+      "엉성하게",
+      "잠깐",
+      "이러한 노력이 지속된다면 …",
+      "가득"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "If not… There is a fear to do",
+    "answer": "그렇지 않다면 …할 우려가 있다",
+    "options": [
+      "우물쭈물",
+      "지독하게",
+      "그렇지 않다면 …할 우려가 있다",
+      "흥미롭게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "If you turn it away… Can face to",
+    "answer": "이를 외면한다면 …에 직면할 수 있다",
+    "options": [
+      "이를 외면한다면 …에 직면할 수 있다",
+      "질끈",
+      "선명하게",
+      "긴장되게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "in the end, one must...",
+    "answer": "결국에는 …해야 한다",
+    "options": [
+      "오히려",
+      "무조건",
+      "냉정하게",
+      "결국에는 …해야 한다"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "overall, taking everything into account...",
+    "answer": "종합적으로 살펴보면 …",
+    "options": [
+      "종합적으로 살펴보면 …",
+      "과감하게",
+      "혼자서",
+      "용감하게"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "therefore, we must...",
+    "answer": "따라서 우리는 … 필요성이 있다",
+    "options": [
+      "거세게",
+      "철썩",
+      "따라서 우리는 … 필요성이 있다",
+      "헌신적으로"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "in summary, in conclusion",
+    "answer": "요컨대 / 결론적으로",
+    "options": [
+      "함께함께",
+      "요컨대 / 결론적으로",
+      "활짝",
+      "물리적으로"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "based on these points...",
+    "answer": "이러한 점을 바탕으로 …",
+    "options": [
+      "이러한 점을 바탕으로 …",
+      "역행해서",
+      "총합적으로",
+      "동시에"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "in reality",
+    "answer": "현실적으로는",
+    "options": [
+      "후련하게",
+      "현실적으로는",
+      "쾌활하게",
+      "침묵으로"
+    ],
+    "time_limit": 15
+  },
+  {
+    "text": "plays a critical role in...",
+    "answer": "…하는 데 중요한 역할을 하다",
+    "options": [
+      "…하는 데 중요한 역할을 하다",
+      "줄곧줄곧",
+      "내내",
+      "답답하게"
+    ],
+    "time_limit": 15
+  }
+]
