@@ -23,6 +23,7 @@ from typing import Any
 
 
 QUIZ_DIR = "data/quizzes"
+QUIZ_ORDER_FILE = os.path.join(QUIZ_DIR, "quiz_order.json")
 quiz_data = []
 QUIZ_PATH = None
 SELECT_QUIZ, SELECT_QUESTION, EDIT_ACTION, EDIT_TEXT, EDIT_OPTIONS = range(5)
@@ -58,15 +59,86 @@ async def replay_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     add_player(user_id, update.effective_user.first_name)
     await send_question(update, context)
 
+def get_quiz_order():
+    if not os.path.exists(QUIZ_ORDER_FILE):
+        files = sorted([f for f in os.listdir(QUIZ_DIR) if f.endswith(".json")])
+        with open(QUIZ_ORDER_FILE, "w", encoding="utf-8") as f:
+            json.dump(files, f)
+    with open(QUIZ_ORDER_FILE, encoding="utf-8") as f:
+        return json.load(f)
+
+def load_ordered_quizzes():
+    files = [f for f in os.listdir(QUIZ_DIR) if f.endswith(".json")]
+    if os.path.exists(QUIZ_ORDER_FILE):
+        with open(QUIZ_ORDER_FILE, "r", encoding="utf-8") as f:
+            saved_order = json.load(f)
+        # Preserve only existing files
+        ordered = [f for f in saved_order if f in files]
+        unordered = [f for f in files if f not in ordered]
+        return ordered + unordered
+    return files
+
+def save_quiz_order(file_list):
+    with open(QUIZ_ORDER_FILE, "w", encoding="utf-8") as f:
+        json.dump(file_list, f)
+
 
 async def quizlist_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    files = [f for f in os.listdir(QUIZ_DIR) if f.endswith(".json")]
-    if not files:
-        await update.message.reply_text("No quizzes available.")
-        return
+    files = load_ordered_quizzes()
+    context.user_data["reorder_mode"] = False  # default
 
-    buttons = [[InlineKeyboardButton(f, callback_data=f"QUIZ_{f}")] for f in files]
-    await update.message.reply_text("📚 Select a quiz:", reply_markup=InlineKeyboardMarkup(buttons))
+    buttons = [[InlineKeyboardButton(f"📝 {f}", callback_data=f"QUIZ_{f}")] for f in files]
+    buttons.append([InlineKeyboardButton("🔁 Reorder quizzes", callback_data="ENTER_REORDER")])
+
+    if update.message:
+        await update.message.reply_text("📚 Select a quiz:", reply_markup=InlineKeyboardMarkup(buttons))
+    elif update.callback_query:
+        await update.callback_query.edit_message_text("📚 Select a quiz:", reply_markup=InlineKeyboardMarkup(buttons))
+
+async def show_reorder_menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    files = load_ordered_quizzes()
+    context.user_data["reorder_mode"] = True
+
+    buttons = []
+    for f in files:
+        buttons.append([
+            InlineKeyboardButton(f"📝 {f}", callback_data=f"QUIZ_IGNORE"),
+            InlineKeyboardButton("⬆️", callback_data=f"UP_{f}"),
+            InlineKeyboardButton("⬇️", callback_data=f"DOWN_{f}")
+        ])
+    buttons.append([InlineKeyboardButton("✅ Done reordering", callback_data="EXIT_REORDER")])
+
+    await update.callback_query.edit_message_text("🔧 Reorder quizzes:", reply_markup=InlineKeyboardMarkup(buttons))
+
+async def handle_quizlist_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    data = query.data
+    files = load_ordered_quizzes()
+
+    if data == "ENTER_REORDER":
+        return await show_reorder_menu(update, context)
+
+    elif data == "EXIT_REORDER":
+        context.user_data["reorder_mode"] = False
+        return await quizlist_command(update, context)
+
+    if data.startswith("UP_") or data.startswith("DOWN_"):
+        target = data.split("_", 1)[1]
+        if target not in files:
+            return
+        idx = files.index(target)
+        if data.startswith("UP_") and idx > 0:
+            files[idx], files[idx - 1] = files[idx - 1], files[idx]
+        elif data.startswith("DOWN_") and idx < len(files) - 1:
+            files[idx], files[idx + 1] = files[idx + 1], files[idx]
+        save_quiz_order(files)
+        return await show_reorder_menu(update, context)
+
+    elif data.startswith("QUIZ_") and not context.user_data.get("reorder_mode", False):
+        return await select_quiz(update, context)
+
+
 async def select_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     global quiz_data, QUIZ_PATH
     query = update.callback_query
@@ -618,3 +690,4 @@ async def kick_user(update, context):
         await update.message.reply_text(f"✅ {to_kick} has been removed from session {code}.")
     else:
         await update.message.reply_text("❌ User not found in session.")
+
